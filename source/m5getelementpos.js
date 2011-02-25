@@ -9,7 +9,7 @@
  */
 ;(function($) {
 	$.fn.m5GetElementPos = function(options) {
-		/* this method will returns the number above this;
+		/* this method will return the number above this;
 		    [
 		         0: LeftTop,
 				 1: CenterTop,
